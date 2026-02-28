@@ -1,0 +1,9 @@
+TASK1 - Am luat un pointer de tipul char si scot informatiile din vector depre fiecare avion.Cand scot informatiile,ma deplasez cu pointer-ul pe o distanta egala cu tipul de variabila pe care o scoatem.Dupa aceea afisam informatiile scoase si continuam parcurgerea pointer-ului cu urmatorul avion.
+
+TASK2 - Prin informatiile extrase despre coorodonate,directie si tip putem completa harta cu "*" care reprezinta avioanele
+
+TASK3 -
+
+TASK4 - In functie de coordonatele varfului,de orientare si de tipul avionului completam cu "*" pe harta forma avionului.In alta matrice,de obstacole,completam locatiile obstacolelor.Printr-o verificare completa ca in patratul format de traiectoria avionului,in pozitiile formate de avionul in sine sai intre aripi,putem stabili daca avionul se loveste sau nu.
+
+TASK5 - Aici continuam explicatia de la task4 prin faptul ca luam printr-un for de T (timp) pozitiile avioanelor la momente de timp consecutive si verificam daca avioanele se afla pe coordonatele puse intr-o matrice separata.Daca se afla consideram o conditie indeplinita si consideram un vector V[T] pe care il marim de fiecare data cand conditia este indeplinita.Se trece la urmatorul avion si se repeta procesul.

@@ -1,0 +1,8 @@
+Task1
+Pentru prima cerinta am considerat doi vectori(unul de numere si celalalt de operatori).Intr-un "for",am luat numerele pe rand si am calculat un rezultat partial pentru fiecare etapa.Rezultatul de la final este cel cautat.
+
+Task2
+Aici am luat mai inati operatiile prioritare.Rezultatul unei inmultiri sau unei impartiri intre doua numere lua locul primului si mutam numerele de dupa cu o pozitie in spate.Putem scadea de fiecare data 1 din n si este obligatoriu sa scadem cu 1 i-ul din "for" pentru a nu trece de vreu operator care ar fi consecutiv si de aceas importanta.Astfel umblam si cu sirul de caractere care va fi mereu mai mic ca lungime cu 1.Dupa aceea luam numerele in ordine de la capat si efectuam adunarile si sacderile de rigoare.
+
+Task3
+Aici adaugam ca importanta intre inmultiri si impartiri,dar inainte de adunari si sacderi.Efectuam acelas procedeu ca inainte,dar de aceasta data vom avea tre parcurgeri succesive ale vectorilor,nu doar doua! 

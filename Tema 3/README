@@ -1,0 +1,11 @@
+Task 1
+Am considera o masca formata dintr un singur bit setat de 1,care se afla pe prima pozitie la stanga.Dupa am putut decodifica N facand o comparatie intre masca si numarul de la tastatura,folosind "&".Am mutat bitul spre dreapta la fiecare comparatie!Folosind N,am putut decodifica si operatii si Dim.
+
+Task 2
+Dupa decodificari,am putut afla numarul de shorturi citite,si luate separat,le-am decodificat in acelas mod,folosind o masca care are un singur bit setat pe prima pozitie la stanga.De data asta am folosit doua for-uri,unul care trece prin numele,si altul care decodifica fiecare numar in parte.
+
+Task 3
+La task3,a trebuit sa tinem cont de bitii ramasi nedecodificati,dupa obtinerea maximului de numere pozibile din primul short.Am facut acest lucru prin "capat",si dupa am avut grija ca puterile lui 2 sa respecte alaturari si separarile bitilor din toate shorturile.
+
+Task 4
+Rezulattul de la task3 si de latsk 4 se obtin prin metodele de la tema 1,folosind numerele decodificate si puse intr-unn vectori de valori.
